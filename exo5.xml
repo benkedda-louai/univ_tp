@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE messages SYSTEM "exercice5.dtd">
+<messages>
+<message numero="1" date="2021-01-01">
+<dest>promo2021</dest>
+<dest bcc="oui">Pierre Nerzic</dest>
+<contenu>Bonne année !</contenu>
+</message>
+<message numero="2">
+<dest>promo2021</dest>
+<contenu>Bonne rentrée !</contenu>
+</message>
+</messages>

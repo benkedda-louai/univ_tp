@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<document>
+    <top>
+        <item answer="a">Question 1</item >
+        <item answer="b">Question 2</item > 
+        <item answer="c">Question 3</item > 
+    </top>
+    <text>
+        <font size="8pt">petite police</font>
+        <font size="24pt">grand police</font> 
+    </text>
+    <text>
+        <top>
+            <item val="2" />
+            <item val="3" /> 
+            <item val="12" /> 
+        </top>
+    </text>
+    <text>
+        <font size="small">Un petite text</font>
+        <font size="big">grand police</font>
+    </text>
+    <programme titre="Internet">
+        <ul>
+            <li>XML</li>
+            <li>DTD</li>
+            <li>API</li>
+            <li>XSL</li>
+        </ul>
+    </programme>
+</document>

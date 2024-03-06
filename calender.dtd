@@ -1,0 +1,12 @@
+<!ELEMENT calendar (event+)>
+<!ELEMENT event (date, desc, (heure, dure?)?, repetition?)>
+<!ELEMENT date (#PCDATA)>
+<!ELEMENT desc (#PCDATA)>
+<!ELEMENT heure (#PCDATA)>
+<!ELEMENT dure (#PCDATA)>
+<!ELEMENT repetition (valuer, (fixe | occurrences)?)>
+<!ELEMENT valuer (#PCDATA)>
+<!ELEMENT fixe (#PCDATA)>
+<!ELEMENT occurrences (#PCDATA)>
+
+<!ATTLIST event id ID #REQUIRED>

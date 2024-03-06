@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Livre>
+    <Titre>Les miserables</Titre>
+    <Auteur>
+        <Nom>Hugo</Nom>
+        <Prenom>Victor</Prenom>
+    </Auteur>
+    <Nb_tomes>3</Nb_tomes>
+</Livre>

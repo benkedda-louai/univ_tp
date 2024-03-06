@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE entete SYSTEM "exo4.dtd">
+<entete>
+    <titre>Title</titre>
+    <date>2024-02-02</date>
+    <auteur>louai</auteur>
+    <auteur>benkedda</auteur>
+    <motscle>XML</motscle>
+    <motscle>DTD</motscle>
+    <resume>
+        <paragraph>lorem</paragraph>
+        <paragraph>test</paragraph>
+    </resume>
+</entete>

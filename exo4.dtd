@@ -1,0 +1,7 @@
+<!ELEMENT entete (titre,date,auteur+,motscle*,resume? )>
+<!ELEMENT titre (#PCDATA)>
+<!ELEMENT date (#PCDATA)>
+<!ELEMENT auteur (#PCDATA)>
+<!ELEMENT motscle (#PCDATA)>
+<!ELEMENT resume (paragraph+)>
+<!ELEMENT paragraph (#PCDATA)>

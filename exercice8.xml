@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE calendar SYSTEM "calender.dtd">
+<calendar>
+    <event id="event_1">
+        <date>2024-03-06</date>
+        <desc>devoir</desc>
+        <heure>14:00</heure>
+        <dure>2 heure</dure>
+        <repetition>
+            <valuer>anne</valuer>
+            <fixe>2025-03-06</fixe>
+        </repetition>
+    </event>
+    <event id="event_2">
+        <date>2024-03-10</date>
+        <desc>travaux pratice</desc>
+        <repetition>
+            <valuer>semain</valuer>
+            <occurrences>10</occurrences>
+        </repetition>
+    </event>
+</calendar>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE cv SYSTEM "exercice6.dtd">
+<cv>
+    <étatcivil>
+        <nom>benkedda</nom>
+        <prénom>louai</prénom>
+        <âge>20</âge>
+        <lieu>Touggourt</lieu>
+    </étatcivil>
+    <formation>
+        <titre>Bachalor en Informatique</titre>
+        <date>2024</date>
+        <mention>Mention Très Bien</mention>
+        <description>Université Kasdi Merbah Ouargla</description>
+    </formation>
+    <formation>
+        <titre>Licence en Sciences</titre>
+        <date>2018</date>
+        <description>Université ABC</description>
+    </formation>
+    <expérience>
+        <libellé>Développeur Web</libellé>
+        <fonction>Analyste Programmeur</fonction>
+        <année>2022-2023</année>
+        <observation>Travail sur des projets de développement web.</observation>
+    </expérience>
+</cv>

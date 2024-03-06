@@ -1,0 +1,16 @@
+<!ELEMENT cv (étatcivil, formation+,expérience*)>
+<!ELEMENT étatcivil (nom, prénom, âge, lieu)>
+<!ELEMENT formation (titre, date, mention?, description?)>
+<!ELEMENT expérience (libellé, fonction?, année, observation?)>
+<!ELEMENT nom (#PCDATA)>
+<!ELEMENT prénom (#PCDATA)>
+<!ELEMENT âge (#PCDATA)>
+<!ELEMENT lieu (#PCDATA)>
+<!ELEMENT date (#PCDATA)>
+<!ELEMENT année (#PCDATA)>
+<!ELEMENT titre (#PCDATA)>
+<!ELEMENT libellé (#PCDATA)>
+<!ELEMENT mention (#PCDATA)>
+<!ELEMENT fonction (#PCDATA)>
+<!ELEMENT description (#PCDATA)>
+<!ELEMENT observation (#PCDATA)>
