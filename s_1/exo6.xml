@@ -11,7 +11,7 @@
         <titre>Bachalor en Informatique</titre>
         <date>2024</date>
         <mention>Mention Très Bien</mention>
-        <description>Université Kasdi Merbah Ouargla</description>
+        <description>Université Kasdi Merbah Ouargla    </description>
     </formation>
     <formation>
         <titre>Licence en Sciences</titre>
@@ -20,7 +20,7 @@
     </formation>
     <expérience>
         <libellé>Développeur Web</libellé>
-        <fonction>Analyste Programmeur</fonction>
+        <fonction></fonction>
         <année>2022-2023</année>
         <observation>Travail sur des projets de développement web.</observation>
     </expérience>
